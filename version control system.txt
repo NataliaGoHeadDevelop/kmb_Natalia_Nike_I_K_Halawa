@@ -1,0 +1,2 @@
+Version Control Systems (VCS) are a category of software tools that hekp a software team manage changes to source
+code over time. Version control software keeps track of every modification to the code in special kind of database
